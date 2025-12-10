@@ -1,7 +1,7 @@
 # AI Study Assistant
 Transform any PDF/DOCX/TXT into consolidated notes, flashcards, quizzes, and a document-aware chatbot. Built with a FastAPI backend (LangChain + Groq + Chroma) and a React/Vite frontend, fully deployed on Hugging Face Spaces.
 
-🚀 Live Demo: (AI Study Assistant)[https://huggingface.co/spaces/KashishM/study_assistant]
+🚀 Live Demo: [AI Study Assistant](https://huggingface.co/spaces/KashishM/study_assistant)
 
 ## ✨ Features
 - Multi-file upload (PDF, DOCX, TXT) with server-side text extraction
